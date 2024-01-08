@@ -8,6 +8,7 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         Vector2 v2 = new Vector2();
+        print("#");
     }
 
     // Update is called once per frame
